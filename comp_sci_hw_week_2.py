@@ -65,3 +65,24 @@ def operator_divide(math_expression, n, result):
     return(product)
 
 alert("Welcome to the calculator")
+
+"""
+Next steps:
+
+Make it possible to exponentiate
+Make it include bedmas with exponentiate no brackets
+(Potentially include brackets)
+
+Note, Currently doesn't work:
+
+exponentiating
+Bedmas
+Negative numbers
+Brackets
+
+Note, Currently does work:
+
+Expressions with two same operators
+Expressions with two mixed operators
+Expressions with any number of mixed operators
+"""
